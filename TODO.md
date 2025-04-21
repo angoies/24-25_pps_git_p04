@@ -1,0 +1,3 @@
+# Cosas pendientes
+
+* revisar .gitignore
